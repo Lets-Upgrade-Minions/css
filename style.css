@@ -1,0 +1,25 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+h1{
+    background-color: #0fa53c;
+    color: white;
+    margin-bottom: -23px;
+}
+
+h2{
+    background-color: hsl(352, 91%, 49%);
+    color: white;
+    
+}
+
+span{
+    background-color: hsl(113, 82%, 56%);
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 30px;
+
+}
